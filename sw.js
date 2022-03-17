@@ -2,40 +2,40 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/07a059f0e14b66297060.js",
-    "revision": "e27d8e62f8f8c8a994dc19779c52fe49"
+    "url": "/_nuxt/2ee4b0c.js",
+    "revision": "2a902f26f0b6669242c92f856522a765"
   },
   {
-    "url": "/_nuxt/0ba4f3835b72b8f51f3e.js",
-    "revision": "0e2d09cdbc4b90605358882cff76b85a"
+    "url": "/_nuxt/5948ccc.js",
+    "revision": "37d27e0497377d583c9f35ab3307913a"
   },
   {
-    "url": "/_nuxt/3e8a135d6f797d8f9143.css",
-    "revision": "54ada358455a98599f8afccef1daddca"
+    "url": "/_nuxt/80a780b.js",
+    "revision": "974329e2205e7ea84870907b7317d6ae"
   },
   {
-    "url": "/_nuxt/447a6157bb8420928cd1.css",
-    "revision": "9acd0d8b6489aa8f592f4ec69216eef3"
+    "url": "/_nuxt/90a0499.js",
+    "revision": "64d748205c4909fa92412cf33de0598c"
   },
   {
-    "url": "/_nuxt/5d97439ba7485a7994ee.js",
-    "revision": "de628ad4e53b63b4db05f98a9c5fcb3e"
+    "url": "/_nuxt/b3e1a17.js",
+    "revision": "0d82f07a036b49fba98d7d77229e8533"
   },
   {
-    "url": "/_nuxt/751607b7185015709698.js",
-    "revision": "508d210ba54466f504f79eaaa3d026d7"
+    "url": "/_nuxt/bb4e824.js",
+    "revision": "6b124bba96984c0a968fc45ee9c15f98"
   },
   {
-    "url": "/_nuxt/aac8d37365913fee7d65.js",
-    "revision": "cf3dee563b25afaf5686f5948b8479a7"
+    "url": "/_nuxt/bb919c4.js",
+    "revision": "571a5d538be54166d7f94239be31dc07"
   },
   {
-    "url": "/_nuxt/cd3140d1cedb54f5ad0a.js",
-    "revision": "25fe276ba273da1c9b5b33e5bc3c1bfd"
+    "url": "/_nuxt/css/6d4ccd4.css",
+    "revision": "ee5204a14141b9a99f543e4fe2fd279d"
   },
   {
-    "url": "/_nuxt/d24bcbd2d47c19981684.js",
-    "revision": "b322f0f2c27fb20c05f0fb6b57eafcea"
+    "url": "/_nuxt/css/dff8b11.css",
+    "revision": "260ef6f39cd4f11ac479db35fd025827"
   }
 ], {
   "cacheId": "PHPulpo-Con-2020",
