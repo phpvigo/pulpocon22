@@ -18,10 +18,6 @@ workbox.precaching.precacheAndRoute([
     "revision": "64d748205c4909fa92412cf33de0598c"
   },
   {
-    "url": "/_nuxt/b3e1a17.js",
-    "revision": "0d82f07a036b49fba98d7d77229e8533"
-  },
-  {
     "url": "/_nuxt/bb4e824.js",
     "revision": "6b124bba96984c0a968fc45ee9c15f98"
   },
@@ -36,6 +32,10 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "/_nuxt/css/dff8b11.css",
     "revision": "260ef6f39cd4f11ac479db35fd025827"
+  },
+  {
+    "url": "/_nuxt/fa3cc0a.js",
+    "revision": "eb6272989a0bceac183dd9f1d193ef57"
   }
 ], {
   "cacheId": "PHPulpo-Con-2020",
